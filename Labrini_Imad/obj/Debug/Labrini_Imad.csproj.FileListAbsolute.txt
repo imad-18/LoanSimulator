@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\obj\Debug\Labrini_Imad.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\obj\Debug\Labrini_Imad.Form1.resources
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\obj\Debug\Labrini_Imad.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\obj\Debug\Labrini_Imad.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\obj\Debug\Labrini_Imad.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\bin\Debug\Labrini_Imad.exe.config
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\bin\Debug\Labrini_Imad.exe
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\bin\Debug\Labrini_Imad.pdb
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\obj\Debug\Labrini_Imad.exe
+C:\Users\lenovo\source\repos\Labrini_Imad\Labrini_Imad\obj\Debug\Labrini_Imad.pdb
